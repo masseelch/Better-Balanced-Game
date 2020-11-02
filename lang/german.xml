@@ -433,9 +433,6 @@
 		</Replace>
 
 		<Replace Tag="LOC_UNIT_INQUISITOR_DESCRIPTION" Language="de_DE">
-			<Text>Kann die Anwesenheit anderer Religionen auf seinem Gebiet um 50 % reduzieren und den theologischen Kampf mit Einheiten anderer Religionen einleiten.</Text>
-		</Replace>
-		<Replace Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION" Language="de_DE">
 			<Text>Kann die Anwesenheit anderer Religionen auf seinem Gebiet um 25 % reduzieren und den theologischen Kampf mit Einheiten anderer Religionen einleiten.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION" Language="de_DE">
